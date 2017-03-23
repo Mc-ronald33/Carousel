@@ -1,0 +1,11 @@
+#carrousel {
+	margin:0;
+	padding:0;
+	height:75px;
+}
+#carrousel li {
+	list-style:none;
+	color:#FFF;
+
+	
+}
